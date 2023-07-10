@@ -4,10 +4,6 @@ public class GuitarHero {
     public static void main(String[] args) {
 
         // Create two guitar strings, for concert A and C
-//        double CONCERT_A = 440.0;
-//        double CONCERT_C = CONCERT_A * Math.pow(2, 3.0/12.0);
-//        GuitarString stringA = new GuitarString(CONCERT_A);
-//        GuitarString stringC = new GuitarString(CONCERT_C);
 
         GuitarString[] notes = new GuitarString[37];
         String keyboard = "q2we4r5ty7u8i9op-[=zxdcfvgbnjmk,.;/' ";
